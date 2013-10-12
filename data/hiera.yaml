@@ -1,0 +1,7 @@
+:hierarchy:
+   - %{operatingsystem}
+   - storm
+:backends:
+   - yaml
+:yaml:
+   :datadir: '/etc/puppet/hieradata'
